@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '2559'
     url: http://www.gutenberg.org/2009/agents/2559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40726#Through-Welsh-Doorways
 gutenberg_issued: '2012-09-10'
 gutenberg_type: Text
 identifiers:
