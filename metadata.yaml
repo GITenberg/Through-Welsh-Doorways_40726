@@ -1,0 +1,36 @@
+_repo: Through-Welsh-Doorways_40726
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Betts, Anna Whelan
+    gutenberg_agent_id: '7782'
+    url: http://www.gutenberg.org/2009/agents/7782
+covers:
+- cover_type: archival
+  image_path: 40726-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marks, Jeannette Augustus
+    alias: Marks, Jeanette Augustus
+    birthdate: 1875
+    deathdate: 1964
+    gutenberg_agent_id: '2559'
+    url: http://www.gutenberg.org/2009/agents/2559
+description: ''
+gutenberg_issued: '2012-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Wales -- Social life and customs -- Fiction'
+tableOfContents: The merry merry cuckoo -- Mors triumphans -- Dreams in jeopardy --
+  Tit for tat -- An oriel in Eden -- The child -- An All-Hallows' honeymoon -- The
+  heretic's wife -- The choice -- A last discipline -- Respice finem.
+title: Through Welsh Doorways
+url: http://www.gutenberg.org/ebooks/40726
